@@ -1,5 +1,7 @@
 /.vs
 /packages
-bin/
+Paint/bin/Debug/
+Paint/bin/Release/Paint.exe.config
+*.pdb
 obj/
 /.idea
